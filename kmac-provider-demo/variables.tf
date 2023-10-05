@@ -1,3 +1,3 @@
 variable "projects" {
-    type = map()
+    type = map
 }
